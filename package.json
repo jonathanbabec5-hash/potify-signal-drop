@@ -1,0 +1,8 @@
+{
+  "name": "potify-signal-drop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "check:public": "node --test tests/qr-matrix.test.mjs"
+  }
+}

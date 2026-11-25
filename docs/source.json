@@ -1,0 +1,7 @@
+{
+  "project": "Signal Drop 001",
+  "kind": "QR component and decoding test",
+  "source": "potify-launch-room at `6aabc005854f87b5c3bc9065cbc62383e1b58f83`. Original QR component and decoder test. The portable SVG adds a four-module quiet zone. The hosted short route currently has a home redirect in source.",
+  "scope": "A decoded QR proves the payload. Attendance, actual redirect destination and sales need separate receipts.",
+  "prepared": "2026-11-25"
+}
