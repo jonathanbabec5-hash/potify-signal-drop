@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## A printed link cannot receive a hotfix
+
+Once a signal card leaves the printer, the quiet border around its code matters just as much as the URL inside it. Signal Drop 001 makes those tiny black and white decisions inspectable long after somebody has put the paper in a pocket.
+
+Compare the [QR component](app/SignalDropQr.tsx) with the [independent matrix decoder](tests/qr-matrix.test.mjs). The regression checks the encoded destination. It cannot tell us whether a phone camera reads a worn print or where the server sends that visitor today.
+
+If you have an existing print, record its size, the camera used and the actual final destination after a scan. If you only ran the decoder, report the decoded string as a software result. No event attendance or sale can be inferred from either one.
+
 **QR component and decoding test.** Connect a printed signal card to one verifiable ecosystem destination.
 
 ### Setup and usage
