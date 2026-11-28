@@ -1,5 +1,13 @@
 # Signal Drop 001
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A designer | [Inspect the QR component](app/SignalDropQr.tsx) | See how the printed code is generated. |
+| A developer | [Read the decoder test](tests/qr-matrix.test.mjs) | Verify the encoded destination independently. |
+| A field tester | [Explore the project tree](docs/DIRECTORY.md) | Record print size, device and destination if testing a physical card. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## A printed link cannot receive a hotfix
